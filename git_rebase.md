@@ -1,4 +1,4 @@
-# gitNotes
+# git rebase
 
 ## git rebase --interactive
 
