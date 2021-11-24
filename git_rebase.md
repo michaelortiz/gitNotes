@@ -1,5 +1,7 @@
 # git rebase
 
+ALWAYS CREATE A BACKUP BRANCH BEFORE REBASING
+
 ## git rebase --interactive
 
 git rebase --interactive HEAD~2
